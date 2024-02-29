@@ -1,0 +1,1 @@
+alias ytdlp-meme="yt-dlp -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' -o 'DIRECTORYGOHERE/%(playlist_index)s.%(title)s.%(ext)s' -S res,ext:mp4 --recode mp4"

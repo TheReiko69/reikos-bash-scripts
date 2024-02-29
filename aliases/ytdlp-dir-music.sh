@@ -1,0 +1,1 @@
+alias ytdlp-dir-music="yt-dlp -x --ignore-errors --add-metadata --parse-metadata 'playlist_index:%(track_number)s' --add-metadata --embed-thumbnail --audio-format mp3 -o '/%(playlist_index)s.%(title)s.%(ext)s'"
