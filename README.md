@@ -1,1 +1,1 @@
-Bash shell scripts I made adn use
+Bash shell scripts I made and use.
